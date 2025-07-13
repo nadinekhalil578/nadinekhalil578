@@ -1,5 +1,8 @@
-## Hi there 👋
+## Nadine Khalil
+🎓 BSc Computer Science student at the University of Manchester (Class of 2026)
 
+## Projects
+...
 <!--
 **nadinekhalil578/nadinekhalil578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
